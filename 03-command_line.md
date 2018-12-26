@@ -20,7 +20,19 @@ Here's a list of items with which you should be familiar:
 
 Make a cheat sheet for yourself: a list of at least **ten** commands and what they do.  (Use the 8 items above and add a couple of your own.)  
 
-> > REPLACE THIS TEXT WITH YOUR RESPONSE
+> > 
+* pwd = show current working directory path
+* mkdir = creating a directory
+* rm = deleting a directory, rm -r = delete directory and child directories
+* touch (filename) = creating a file using `touch` command
+* rm = deleting a file
+* mv (filename) (new filename) = renaming a file
+* ls -a = listing hidden files
+* cp (file) (new directory) = copying a file from one directory to another
+* cat (file1) > (file2) = overwrites content in file2 with contents in file1
+* sort (file) = sorts contents in file alphabetically
+* uniq (file) = filters out adjacent duplicates
+* sort (file) | uniq = sorts and filters out duplicates
 
 ---
 
