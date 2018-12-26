@@ -20,18 +20,7 @@ Here's a list of items with which you should be familiar:
 
 Make a cheat sheet for yourself: a list of at least **ten** commands and what they do.  (Use the 8 items above and add a couple of your own.)  
 
-> > "* pwd = show current working directory path
-* mkdir = creating a directory
-* rm = deleting a directory, rm -r = delete directory and child directories
-* touch (filename) = creating a file using `touch` command
-* rm = deleting a file
-* mv (filename) (new filename) = renaming a file
-* ls -a = listing hidden files
-* cp (file) (new directory) = copying a file from one directory to another
-* cat (file1) > (file2) = overwrites content in file2 with contents in file1
-* sort (file) = sorts contents in file alphabetically
-* uniq (file) = filters out adjacent duplicates
-* sort (file) | uniq = sorts and filters out duplicates"
+> > pwd = show current working directory path, mkdir = creating a directory, rm = deleting a directory, rm -r = delete directory and child directories, touch (filename) = creating a file using `touch` command, rm = deleting a file, mv (filename) (new filename) = renaming a file, ls -a = listing hidden files, cp (file) (new directory) = copying a file from one directory to another, cat (file1) > (file2) = overwrites content in file2 with contents in file1, sort (file) = sorts contents in file alphabetically, uniq (file) = filters out adjacent duplicates, sort (file) | uniq = sorts and filters out duplicates
 
 ---
 
@@ -46,7 +35,7 @@ What do the following commands do:
 `ls -t`  
 `ls -Glp`  
 
-> > REPLACE THIS TEXT WITH YOUR RESPONSE
+> > "ls" lists the files and directories inside the current directory. "ls -a" lists all files and directories including hidden files/directories. "ls -l" lists the long name of the files/directories. "ls -lh" is the long name option with the sizes in human readable format. "ls -lah" lists all files including hidden files and directories with long name and with sizes in human readable format. "ls -t" lists files by order of last modified. "ls -Glp" lists files and directories in long name with directories identified with a "/" at the end of the name.
 
 ---
 
@@ -54,7 +43,7 @@ What do the following commands do:
 
 Explore these other [ls options](http://www.techonthenet.com/unix/basic/ls.php) and pick 5 of your favorites:
 
-> > REPLACE THIS TEXT WITH YOUR RESPONSE
+> > "-r" will reverse order, "-u" displays files by the file access time, "-R" will show subdirectories as well, "-d" only shows directories, and "-q" displays all nonprinting characters as "?".
 
 ---
 
