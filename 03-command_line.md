@@ -51,7 +51,8 @@ Explore these other [ls options](http://www.techonthenet.com/unix/basic/ls.php) 
 
 What does `xargs` do? Give an example of how to use it.
 
-> > REPLACE THIS TEXT WITH YOUR RESPONSE
+> > "xargs" is used to run a command for every item or input in a list
+> > ls | xargs rm = removes every file in current directory
 
  
 
