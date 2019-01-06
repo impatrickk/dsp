@@ -21,7 +21,7 @@ First look at comparing the two groups, I looked at the mean for the total weigh
     print("The total weight mean of first borns are:", round(firsts.totalwgt_lb.mean(),3))
     print("The total weight mean of others are:", round(others.totalwgt_lb.mean(),3))
 
-Our output tells us that "the total weight mean of first borns are: 7.201" abd "the total weight mean of others are: 7.326"
+Our output tells us that the total weight mean of first borns are: 7.201 and the total weight mean of others are: 7.326.
     
 Next, using the prebuilt function in the textbook, I looked at the Cohen's d to quanitfy the differences and see the effect size of the two groups:
 
