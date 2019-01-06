@@ -36,4 +36,4 @@ Next, using the prebuilt function in the textbook, I looked at the Cohen's d to 
         
         round(CohenEffectSize(firsts.totalwgt_lb, others.totalwgt_lb),3)
         
-Our Cohen's d result of -0.089 standard deviations is greater than 0.029 standard deviations for the difference in pregnanc length (in terms of absolute value), but it is still a very small effect size, relative to the difference in height between men and women (1.7 standard deviations).
+Our Cohen's d result of -0.089 standard deviations is greater than 0.029 standard deviations for the difference in pregnancy length (in terms of absolute value), but it is still a very small effect size, relative to the difference in height between men and women (1.7 standard deviations).
